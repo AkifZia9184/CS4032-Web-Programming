@@ -1,6 +1,11 @@
-This is my assignment#02
-Form Validation
+# This is my assignment#02 Form Validation & Bootstrap
 
 
 ## Project Screenshots
-![Screenshot of Feature X](tak2SS.png)) "Feature X Preview")
+
+###### Task1: It is about setting up git and uplaoding assignments and activities on github
+
+###### Task2 Output
+![Screenshot of Feature X](tak2SS.png)
+###### Task3 Output
+![Screenshot of Feature X](tak2SS.png)
