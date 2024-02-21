@@ -3,4 +3,4 @@ Form Validation
 
 
 ## Project Screenshots
-![Screenshot of Feature X](!(!(Assignment2/tak2SS.png)) "Feature X Preview")
+![Screenshot of Feature X](tak2SS.png)) "Feature X Preview")
