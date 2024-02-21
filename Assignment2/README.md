@@ -6,4 +6,4 @@ A website programming assignments.
 this is assignment 2
 
 ## Project Screenshots
-![Screenshot of Feature X](!(!(Assignment2/tak2SS.png)) "Feature X Preview")
+![Screenshot of Feature X](tak2SS.png)) "Feature X Preview")
