@@ -3,4 +3,6 @@ Basic HTML and CSS
 
 
 ## Project Screenshots
-![Screenshot of Feature X](TAsk1SS.png))
+![Screenshot of Feature X](TAsk1SS.png)
+![Screenshot of Feature X](Task2SS.png)
+![Screenshot of Feature X](Task3SS.png)
