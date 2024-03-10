@@ -2,5 +2,5 @@
 <p>Task 1 is all about comments in HTML,CSS and JS</p>
 
 ![img 1](img1.png)
-![img 1](img 2.png)
-![img 1](img 3.png)
+![img 2](img 2.png)
+![img 3](img 3.png)
