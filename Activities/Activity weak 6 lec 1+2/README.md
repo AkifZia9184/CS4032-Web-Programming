@@ -6,3 +6,7 @@
 ![img](img2.png)<br>
 
 ![img](img3.png)
+
+
+<p>Task 2 (jquery)</p>
+![img](T2.png)
