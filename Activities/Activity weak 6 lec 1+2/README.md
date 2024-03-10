@@ -9,4 +9,5 @@
 
 
 <p>Task 2 (jquery)</p>
-![img](T2.png)
+
+![example](T2.png)
