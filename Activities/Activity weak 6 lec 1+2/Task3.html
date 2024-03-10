@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Toggle Image Display</title>
+    <script src="node_modules/jquery/dist/jquery.js"></script>
+    <style>
+        #image {
+            display: none; /* Initially hide the image */
+        }
+    </style>
+</head>
+<body>
+    <button id="toggleButton">Show Image</button>
+    <br>
+    <img id="image" src="img3.png" alt="Image">
+    
+    <script>
+        $(document).ready(function() {
+            $('#toggleButton').click(function() {
+                // Toggle image visibility
+                $('#image').toggle();
+                
+                // Toggle button text
+                var buttonText = $('#toggleButton').text();
+                if (buttonText === 'Show Image') {
+                    $('#toggleButton').text('Hide Image');
+                } else {
+                    $('#toggleButton').text('Show Image');
+                }
+            });
+        });
+    </script>
+</body>
+</html>
