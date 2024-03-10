@@ -15,3 +15,11 @@
 <p><u>Task 2 (CDN)</u></p>
 
 ![example](T2.png)
+
+<p><u>Task 3</u></p>
+
+![example](T31.png)
+
+![example](T32.png)
+
+
