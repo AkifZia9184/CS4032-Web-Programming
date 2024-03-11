@@ -23,3 +23,13 @@
 ![example](T32.png)
 
 
+<u>Task 4</u>
+
+<p>Before removal</p>
+
+![example](br.png)
+
+<p>After removal</p>
+
+![example](ar.png)
+
