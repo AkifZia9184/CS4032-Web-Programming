@@ -37,3 +37,8 @@
 <h3>Task 5</h3>
 
 ![example](t5.png)
+
+
+<h3>Task 6</h3>
+
+![example](t6.png)
