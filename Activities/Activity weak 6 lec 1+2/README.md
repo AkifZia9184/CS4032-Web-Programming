@@ -1,5 +1,5 @@
 <h1> Weak 6 lec 1+2 ACTIVITY</h1>
-<p><u>Task 1 is all about comments in HTML,CSS and JS</u></p>
+<h3>Task 1 is all about comments in HTML,CSS and JS</h3>
 
 ![img 1](img1.png)<br>
 
@@ -8,22 +8,22 @@
 ![img](img3.png)
 
 
-<p><u>Task 2 (jquery)</u></p>
+<h3>Task 2 (jquery)</h3>
 
 ![example](T2.png)
 
-<p><u>Task 2 (CDN)</u></p>
+<h3>Task 2 (CDN)</h3>
 
 ![example](T2.png)
 
-<p><u>Task 3</u></p>
+<h3>Task 3</h3>
 
 ![example](T31.png)
 
 ![example](T32.png)
 
 
-<u>Task 4</u>
+<h3>Task 4</h3>
 
 <p>Before removal</p>
 
