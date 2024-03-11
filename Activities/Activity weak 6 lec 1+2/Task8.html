@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="https://code.jquery.com/jquery-git.js"></script>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<title>Animation from Left to Right using jQuery</title>
+<style>
+  #movingDiv {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    position: relative;
+  }
+</style>
+</head>
+<body>
+<div id="movingDiv"></div>
+
+<script>
+$(document).ready(function(){
+  $("#movingDiv").animate({
+    left: "+=200px" 
+  }, 8000); // 8 seconds duration (8000 milliseconds)
+});
+</script>
+</body>
+</html>
