@@ -1,0 +1,76 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f2f2f2;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 600px;
+    margin-top: 50px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.player-choice,
+.computer-choice,
+.result {
+    padding: 20px;
+    text-align: center;
+}
+
+.player-choice button {
+    background-color: #4CAF50;
+    color: white;
+    font-weight: bold;
+    margin: 10px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.player-choice button:hover {
+    background-color: #3e8e41;
+}
+
+#computer-hand {
+    width: 100px;
+    height: auto;
+}
+
+.score {
+    margin-top: 20px;
+}
+
+.score p {
+    margin-bottom: 5px;
+}
+
+.computer-choice {
+    border: 1px solid #ddd;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+/* Animation for computer hand (optional) */
+.shake {
+  animation: shake 0.5s linear infinite;
+}
+
+@keyframes shake {
+  0% { transform: rotate(0deg); }
+  25% { transform: rotate(-5deg); }
+  50% { transform: rotate(5deg); }
+  75% { transform: rotate(-5deg); }
+  100% { transform: rotate(0deg); }
+}
